@@ -1,0 +1,65 @@
+/*sldier css*/
+.carousel-caption {
+    bottom: 45%;
+}
+
+/*about us css*/
+.about-us h4 {
+    padding-bottom: 20px;
+    transition: .3s;
+}
+.about-content i{
+    font-size:30px;
+    padding-bottom: 15px;
+}
+.about-us p {
+    padding-bottom: 50px;
+}
+.about-us h4:hover{
+    color:#007bff;
+}
+/*getting started section*/
+.getting-started{
+    background: url(../images/xtra.jpg);
+    height: 200px;
+    widows: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+.getting-start-overaly{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color:rgba(0,0,0,.8);
+}
+.getting-started{
+    color: #fff;
+}
+/*about page */
+/*banner-section*/
+.banenr-section{
+    background: url(../images/banner.jpeg);
+    height: 200px;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.banner-overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0, .75);
+}
+
+
+
+
+
+
+
+
+
